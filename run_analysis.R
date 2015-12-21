@@ -1,6 +1,5 @@
 library(plyr)
 
-setwd("./Coursera/dataclean/UCI HAR Dataset/train")
 
 #load raw data into the working environment
 library(data.table)
